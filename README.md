@@ -1,0 +1,1 @@
+# wokwi-sistem-kamera-dummy-dengan-deteksi-gerak
